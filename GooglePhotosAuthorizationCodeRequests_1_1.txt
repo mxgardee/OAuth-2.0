@@ -22,7 +22,7 @@ STEP 2 : Send Authorization Request and extract Code
 
 => Start the Web Server (Optional) 
 => Use Google Chrome to send request and capture the Authorization code
-4/0AX4XfWh94rhFhowN0uwZzVfIgl5yYu2IElAYHZMWKK2JPBtYfUDpTKKqoLccRkAnCorxfB
+4/0AX4XfWh94rhFhowN0uwZzVfIgl5yYu2IElAYHZMWKK2JPBtYfUDaTKKqoLccRkAnCorxfB
 
 
 
