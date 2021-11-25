@@ -80,7 +80,7 @@ STEP 8 : Get Token Info (should fail because token has expired)
 ENDPOINT   => https://www.googleapis.com/oauth2/v1/tokeninfo
 HTTP TYPE  => POST
 
-access_token="ya29.a0ARrdaM9Yy5Pt-#############ILkpMIPN2KRruDM#####################################################"
+access_token="ya29.a0ARrdaM9Yy5Pt-#############ILkpMIPN2KRruDM####A################################################"
 
 =============================================================================
 STEP 8 : Refresh Token
