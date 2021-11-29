@@ -5,7 +5,7 @@ STEP 1 : Construct Authorization Request for grant type = Authorization code
 ENDPOINT   => 
 HTTP TYPE  => 
 
-https://accounts.google.com/o/oauth2/v2/auth?response_type=code&client_id=501074812452-gk57783ungutioegh56bt1tpbsdi5k46.apps.googleusercontent.com&scope=openid%20profile%20email%20https://www.googleapis.com/auth/photoslibrary.readonly&state=state123&redirect_uri=http://localhost:8080&access_type=offline&prompt=consent
+https://accounts.google.com/o/oauth2/v2/auth?response_type=code&client_id=501074812452-gk57783unputioegh56bt1tpbsdi5k46.apps.googleusercontent.com&scope=openid%20profile%20email%20https://www.googleapis.com/auth/photoslibrary.readonly&state=state123&redirect_uri=http://localhost:8080&access_type=offline&prompt=consent
 
 response_type=code
 client_id=501074812452-gk57783ungutioegh56bt1tpbsdi5k46.apps.googleusercontent.com
